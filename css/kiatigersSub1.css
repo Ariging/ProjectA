@@ -63,7 +63,7 @@ header .inner > div > span{
     font-size: 2rem
 }
 header .inner .mlogo{
-    background: url(../images/emblem/emblem1.png) 50% 50% no-repeat;
+    background: url(../images/emblem/wordmark.png) 50% 50% no-repeat;
     background-size: contain;
     width: 120px;
     height: 45px;
